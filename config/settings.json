@@ -1,0 +1,23 @@
+{
+  "module": "roblox-optimizer",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "tweaks": {
+      "enabled": true
+    },
+    "profiles": {
+      "enabled": true
+    },
+    "monitor": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
